@@ -1,6 +1,7 @@
 from __future__ import annotations
 from functools import total_ordering
 
+
 # comment for commit
 @total_ordering
 class Distance:
